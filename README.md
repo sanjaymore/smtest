@@ -1,2 +1,3 @@
 # smtest
 nextline
+third line
