@@ -1,6 +1,6 @@
 # escape=`
 
-FROM nginx/nginx
+FROM nginx
 
 # Configure website
 EXPOSE 80
